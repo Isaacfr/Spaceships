@@ -1,5 +1,5 @@
 # Spaceships
-A small game I created for my midterm
+A small 2D arcade shooting game I created for my midterm
 
 This game includes the following features:
 - Movement/Limited Movement
